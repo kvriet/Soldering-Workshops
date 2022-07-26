@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name driverFETcustom)(type Legacy)(uri "D:/OneDrive - TU Eindhoven/DESIGN/PCBs/Wireless LEDs/Wireless LEDs v2/Wireless LEDs/Driver_FET.lib")(options "")(descr ""))
+  (lib (name Wireless-LEDs-rescue)(type Legacy)(uri "${KIPRJMOD}/Wireless LEDs-rescue.lib")(options "")(descr ""))
+)
