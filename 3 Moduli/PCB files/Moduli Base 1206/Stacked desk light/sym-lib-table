@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name "Stacked desk light")(type Legacy)(uri "${KIPRJMOD}/Stacked desk light.lib")(options "")(descr ""))
+  (lib (name Stacked-desk-light-rescue)(type Legacy)(uri "${KIPRJMOD}/Stacked desk light-rescue.lib")(options "")(descr ""))
+)
