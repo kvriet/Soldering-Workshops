@@ -7,8 +7,17 @@
 
 2. Lighthouse
 
+![lighthouse](https://user-images.githubusercontent.com/47333175/192724666-b10ca86c-5eb4-4134-9028-0bfd3c88142d.png)
+
 3. Moduli
 
 ![Moduli lit up](https://user-images.githubusercontent.com/47333175/192724526-ea4aba21-490f-4ef3-b28c-1a4d076b40d8.JPG)
 
-4. 
+4. LED cube
+
+![IMG_1916](https://user-images.githubusercontent.com/47333175/192724739-f8026985-b56a-410e-a6fc-41ab5b2d6c35.jpg)
+
+5. Lotus
+
+
+
