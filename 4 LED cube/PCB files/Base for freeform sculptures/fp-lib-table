@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name "Base for freeform sculptures")(type KiCad)(uri "${KIPRJMOD}/Base for freeform sculptures.pretty")(options "")(descr ""))
+)
