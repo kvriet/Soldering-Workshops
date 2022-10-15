@@ -18,7 +18,7 @@
 
 4. LED cube
 
-![led cube](https://user-images.githubusercontent.com/47333175/195779483-b97b0dca-7811-464f-ad49-1aeb108355b3.JPG)
+![led cube](https://user-images.githubusercontent.com/47333175/195779483-b97b0dca-7811-464f-ad49-1aeb108355b3.JPG) ![cube not lit](https://user-images.githubusercontent.com/47333175/195991387-048f1520-4d2e-40f7-b916-bec64ac3e2dc.png)
 
 
 5. Lotus
