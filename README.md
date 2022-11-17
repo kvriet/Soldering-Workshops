@@ -3,7 +3,7 @@
 
 1. Wireless LEDs
 
-![IMG_1852](https://user-images.githubusercontent.com/47333175/192724322-9984109f-9342-4828-a106-8de02826830e.jpg)
+![wireless led header](https://user-images.githubusercontent.com/47333175/202407319-eb72cdf0-e41c-43f4-a6d2-9643ac0f1bea.png)
 
 
 2. Lighthouse
