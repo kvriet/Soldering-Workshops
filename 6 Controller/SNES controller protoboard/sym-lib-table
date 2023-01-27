@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name SNES)(type Legacy)(uri ${KIPRJMOD}/SNES.lib)(options "")(descr ""))
+)
