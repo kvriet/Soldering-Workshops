@@ -25,3 +25,6 @@
 
 ![DSC_1646](https://user-images.githubusercontent.com/47333175/192725242-1299edd9-8062-4e6a-af5f-442e0d184f80.jpg)
 
+6. Controller
+
+![controller option](https://user-images.githubusercontent.com/47333175/215227849-088ed5a2-ec25-4559-a0c3-254d03ef12aa.png)
