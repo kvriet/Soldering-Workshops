@@ -1,9 +1,9 @@
-# Code by Katrien van Riet - Jan '23
+# Code by Katrien van Riet - Feb '23
 # Help from:
+# - https://wiki.seeedstudio.com/XIAO-RP2040-with-MicroPython/
 # - https://learn.adafruit.com/circuitpython-essentials/circuitpython-hid-keyboard-and-mouse
 # - https://www.instructables.com/DIY-Macro-Keyboard-Using-a-Raspberry-PI-Pico/
 # Key documentation: https://docs.circuitpython.org/projects/hid/en/latest/api.html#adafruit_hid.keyboard.Keyboard
-
 
 import board
 import digitalio
